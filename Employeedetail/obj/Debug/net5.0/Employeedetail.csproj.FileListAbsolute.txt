@@ -1,0 +1,16 @@
+C:\Users\akshay\Desktop\Employee\Employeedetail\Employeedetail\bin\Debug\net5.0\Employeedetail.exe
+C:\Users\akshay\Desktop\Employee\Employeedetail\Employeedetail\bin\Debug\net5.0\Employeedetail.deps.json
+C:\Users\akshay\Desktop\Employee\Employeedetail\Employeedetail\bin\Debug\net5.0\Employeedetail.runtimeconfig.json
+C:\Users\akshay\Desktop\Employee\Employeedetail\Employeedetail\bin\Debug\net5.0\Employeedetail.runtimeconfig.dev.json
+C:\Users\akshay\Desktop\Employee\Employeedetail\Employeedetail\bin\Debug\net5.0\Employeedetail.dll
+C:\Users\akshay\Desktop\Employee\Employeedetail\Employeedetail\bin\Debug\net5.0\Employeedetail.pdb
+C:\Users\akshay\Desktop\Employee\Employeedetail\Employeedetail\obj\Debug\net5.0\Employeedetail.csproj.AssemblyReference.cache
+C:\Users\akshay\Desktop\Employee\Employeedetail\Employeedetail\obj\Debug\net5.0\Employeedetail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshay\Desktop\Employee\Employeedetail\Employeedetail\obj\Debug\net5.0\Employeedetail.AssemblyInfoInputs.cache
+C:\Users\akshay\Desktop\Employee\Employeedetail\Employeedetail\obj\Debug\net5.0\Employeedetail.AssemblyInfo.cs
+C:\Users\akshay\Desktop\Employee\Employeedetail\Employeedetail\obj\Debug\net5.0\Employeedetail.csproj.CoreCompileInputs.cache
+C:\Users\akshay\Desktop\Employee\Employeedetail\Employeedetail\obj\Debug\net5.0\Employeedetail.dll
+C:\Users\akshay\Desktop\Employee\Employeedetail\Employeedetail\obj\Debug\net5.0\refint\Employeedetail.dll
+C:\Users\akshay\Desktop\Employee\Employeedetail\Employeedetail\obj\Debug\net5.0\Employeedetail.pdb
+C:\Users\akshay\Desktop\Employee\Employeedetail\Employeedetail\obj\Debug\net5.0\Employeedetail.genruntimeconfig.cache
+C:\Users\akshay\Desktop\Employee\Employeedetail\Employeedetail\obj\Debug\net5.0\ref\Employeedetail.dll
