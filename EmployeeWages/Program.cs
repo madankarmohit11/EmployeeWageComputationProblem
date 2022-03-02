@@ -12,7 +12,9 @@ namespace project1
             int Emphour = 0;
             Random random = new Random();
             string name = Console.ReadLine();
+           
             int empCheck = random.Next(0, 2);
+           
             if (empCheck == FULL_TIME)
             {
                 Emphour = 8;
@@ -25,7 +27,7 @@ namespace project1
                 
             }
            
-            Empwage = Empratewageperhour * Emphour;
+            Empwage = Empratewageperhour*Emphour;
             Console.WriteLine("Employee wage is" + Empwage);
             Console.ReadLine();
         }
